@@ -57,14 +57,10 @@ data:
 * dynamic recipient via data
 * dynamic gateway via code
 * support for multiple recipients
-* installation via HACS
 * setup via UI/flow
 * service to query account credit balance
 * support for receipt confirmation
 * unicode support
 * test long sms
 * support for time offset dispatch
-
-# Changelog
-* 2022-11-11 Initial Commit
 
