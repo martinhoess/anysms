@@ -2,7 +2,7 @@
   "domain": "anysms",
   "name": "AnySMS",
   "documentation": "https://github.com/martinhoess/anysms",
-  "codeowners": [@MarH],
+  "codeowners": ["@MarH"],
   "iot_class": "cloud_push",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
